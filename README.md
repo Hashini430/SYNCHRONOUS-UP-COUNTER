@@ -65,6 +65,8 @@ endmodule
 
 
 **TRUTH TABLE**
+
+
 ![Screenshot 2024-12-17 140501](https://github.com/user-attachments/assets/cbd453fb-f5b9-40e2-9a5c-5cec591a8e58)
 
 
